@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "codexive-api",
+  "version": "1.0.0",
+  "description": "Api for Codexive OS hosted on github pages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillyCottrell/Codexive-api.git"
+  },
+  "keywords": [
+    "CodexiveOS",
+    "API",
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Billy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillyCottrell/Codexive-api/issues"
+  },
+  "homepage": "https://github.com/BillyCottrell/Codexive-api#readme"
+}
